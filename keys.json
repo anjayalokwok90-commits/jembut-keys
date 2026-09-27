@@ -1,4 +1,14 @@
 {
-  "keys": [],
+  "keys": [
+    {
+      "key": "HJSK3-RWUJ7-PEG2J-SBAMM-97V5A",
+      "userId": "8763898031",
+      "username": null,
+      "role": "owner_utama",
+      "active": true,
+      "createdAt": "2026-09-27T01:27:53.723Z",
+      "lastUsed": null
+    }
+  ],
   "roles": {}
 }
